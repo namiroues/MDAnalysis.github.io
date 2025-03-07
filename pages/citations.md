@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Citations
-order: 100
+order: 6
 ---
 
 MDAnalysis and the included algorithms are scientific software that
