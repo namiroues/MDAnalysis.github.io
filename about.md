@@ -9,15 +9,10 @@ style="float: right" alt="MDAnalysis" width="30%"/>
 ## Mission
 
 The MDAnalysis [Community](#community) is interested in all facets of **working
-with data in the computational molecular sciences**. We welcome everyone. **We all follow our
-[Code of Conduct] and strive to create an environment that is welcoming to
-all.** Our primary purpose is to produce software that scientists in academia and
-industry will trust to use in their research.
+with data in the computational molecular sciences**. We welcome everyone. **We all follow our [Code of Conduct]({{site.baseurl}}/pages/conduct/) and strive to create an environment that is welcoming to all.** Our primary purpose is to produce software that scientists in academia and industry will trust to use in their research.
 
 We develop and maintain projects related to the broader goal of processing and
-analyzing data in the computational molecular sciences. We aim to empower users/developers to
-work with our packages following [FAIR principles]. Our central package is the
-[MDAnalysis library] for the analysis of computer simulations of many-body
+analyzing data in the computational molecular sciences. We aim to empower users/developers to work with our packages following [FAIR principles][]. Our central package is the [MDAnalysis library][] for the analysis of computer simulations of many-body
 systems at the molecular scale. 
 
 We believe that scientific software should be open to all while using best
@@ -25,55 +20,40 @@ practices to maintain high standards of correctness and reproducibility. We
 emphasize educating our users to make best use of the tools that we produce, to
 enable them to become contributors to our community and code bases.
 
-
-
 ## Community
 
 **MDAnalysis** is developed and maintained as a freely available, open-source
 project by a global community of scientists. The MDAnalysis community adheres
 to our [Code of Conduct]({{site.baseurl}}/pages/conduct/) and invites everyone
-to [participate]({{site.baseurl}}/#participating) --- be it on GitHub Discussions,
-through issue reports, or code contributions.
+to [participate]({{site.baseurl}}/#participating).
+
+For more information check out our [Community]({{ site.baseurl }}/pages/community/) page.
+
+## Team & Organization
+
+MDAnalysis is a community-driven project made possible through the efforts of
+many contributors who take on roles in **development, maintenance,documentation, communication, and project management**.
+
+For a detailed list of contributors and their responsibilities, visit the [Team]({{ site.url }}/pages/team) page.
+
+## Acknowledgements
 
 All *contributors* to the MDAnalysis library and its subprojects are acknowledged
-in a file called `AUTHORS` in each source code repository and in the list of
-contributions; as examples see the [`AUTHORS` file for
-mdanalysis](https://github.com/MDAnalysis/mdanalysis/blob/develop/package/AUTHORS)
-and the [contributors for
-MDAnalysis/mdanalysis](https://github.com/MDAnalysis/mdanalysis/graphs/contributors).
+in the [`AUTHORS` file](https://github.com/MDAnalysis/mdanalysis/blob/develop/package/AUTHORS) and the [contributors list](https://github.com/MDAnalysis/mdanalysis/graphs/contributors).
 
-MDAnalysis and the algorithms implemented in the library and the subprojects are
-scientific software that are described in [academic
-publications]({{site.baseurl}}/pages/citations/).
+## Open Source & Availability
 
-MDAnalysis is used in a variety of [other molecular dynamics tools]({{site.baseurl}}/pages/mdakits/).
+MDAnalysis is a fully **open-source** project, developed and maintained by a global community of scientists. It is released under the [GNU General Public License, version 2](https://www.gnu.org/licenses/gpl-2.0.html), ensuring accessibility and reproducibility in molecular dynamics research. The core [MDAnalysis library][] follows this license, while some supporting libraries are available under MIT or BSD-3 licenses.
 
-
-## Open source
-
-All our [code]({{site.baseurl}}/#availability) and our [teaching
-materials]({{site.baseurl}}/pages/learning_MDAnalysis/) are available
-under open source licenses from repositories at
-[https://github.com/MDAnalysis/](https://github.com/MDAnalysis/). The
-MDAnalysis library itself is published under the [GNU General Public
-License, version 2](https://www.gnu.org/licenses/gpl-2.0.html); other
-supporting libraries are published under the MIT or the BSD-3 clause
-licence. 
-
-Installable packages are available through the popular ``pip`` and
-``conda`` package managers as well as some Linux distributions.
-
+MDAnalysis is easily installable using `pip` and `conda`, and is also available in some Linux distributions. The **source code** is hosted on [GitHub](https://github.com/MDAnalysis/mdanalysis), and official releases are distributed through [PyPI](https://pypi.org/project/MDAnalysis/). We welcome contributions from the community—whether through development, documentation, or user support. If you're interested in contributing, visit our [Community]({{ site.baseurl }}/pages/community/) page to learn how you can get involved.
 
 ## Governance
 
 Project leadership is provided by a subset of contributors, the
-*MDAnalysis Core Developers*
-([@MDAnalysis/coredevs](https://github.com/orgs/MDAnalysis/teams/coredevs))
-who have produced substantial contributions over extended lengths of
-time and who remain active in reviewing issues and discussions on
-GitHub Discussions and our Discord server. 
+*MDAnalysis Core Developers* ([@MDAnalysis/coredevs](https://github.com/orgs/MDAnalysis/teams/coredevs)) who have produced substantial contributions over extended lengths of
+time and who remain active in reviewing issues and discussions on GitHub Discussions and our Discord server. 
 
-### MDAnalysis Core Developers
+## MDAnalysis Core Developers
 
 The **Core Developers** lead the MDAnalysis project and are responsible to
 the community and to NumFOCUS, our fiscal sponsor. They **represent
