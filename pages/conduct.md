@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: otherpage
 title: Code of Conduct
-order: 0
+order: 16
 ---
 
 <!-- DON'T CHANGE THIS. ALWAYS COPY FROM THE MAIN CODE REPOSITORY -->
