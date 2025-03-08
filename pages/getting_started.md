@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Getting Started 
-order: 1
+order: 2
 ---
 
 MDAnalysis is a powerful Python library for analyzing molecular dynamics simulations. This page will help you quickly install MDAnalysis, run a basic example, and explore learning resources to get started.

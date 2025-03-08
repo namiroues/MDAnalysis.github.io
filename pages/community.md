@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Community
-order: 5
+order: 7
 ---
 
 Welcome to the MDAnalysis community! Whether you're looking to stay updated, ask questions, or contribute, we have several ways for you to connect and engage.

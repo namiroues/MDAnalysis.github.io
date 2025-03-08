@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Documentation
-order: 3
+order: 4
 ---
 
 Welcome to the MDAnalysis documentation hub. Here, you will find all the necessary resources, guides, and references to help you navigate MDAnalysis efficiently.

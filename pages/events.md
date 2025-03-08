@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-order: 4
+order: 8
 ---
 
 MDAnalysis hosts and participates in various **community-driven events, mentoring programs, and workshops** to foster collaboration, learning, and contributions to open-source molecular dynamics analysis.

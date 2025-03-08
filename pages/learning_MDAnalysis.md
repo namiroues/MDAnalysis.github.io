@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Learning MDAnalysis
-order: 2
+order: 3
 ---
 
 MDAnalysis is primarily a library that helps you to build
