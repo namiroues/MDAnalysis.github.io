@@ -47,7 +47,7 @@
       {% for node in pages_list %}
       {% if node.title != null%}
         {% if node.layout == "page"%}
-      {% assign prefix = node.url | truncate: blogpagedir_len, '' %}
+	  {% assign prefix = node.url | truncate: blogpagedir_len, '' %}
             {% if prefix != blogpagedir %}
               <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
             {% endif %}
@@ -59,4 +59,3 @@
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
   </div>
 </div>
-
