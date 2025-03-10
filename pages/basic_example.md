@@ -1,5 +1,5 @@
 ---
-layout: otherpage
+layout: page
 title: Basic example
 order: 1
 ---
