@@ -22,26 +22,32 @@ relatively fast framework for complex analysis tasks. In addition,
 powerful atom
 [selection commands]({{site.pypi.docs}}/documentation_pages/selections.html)
 are implemented. Trajectories can also be manipulated (for instance,
-fit to a reference structure) and written out. 
+fit to a reference structure) and written out. The
+[basic example]({{ site.baseurl }}/pages/basic_example) demonstrates some
+of these features.
 
-This [Basic example]({{ site.baseurl }}/pages/basic_example) provides a simple introduction to how MDAnalysis can be used for trajectory analysis.
+Read more:
 
-## Get started
+* [installation quick start]({{ site.baseurl }}/pages/installation_quick_start)
+* [learning MDAnalysis]({{ site.baseurl }}/pages/learning_MDAnalysis)
 
-If you are new to MDAnalysis, explore these resources to find information about installation, tutorials and documentation.
+Also, check out the [blog]({{ site.baseurl }}/blog) or subscribe to our 
+[news feed]({{ site.baseurl }}/{{site.feed.path}}) to follow development
+updates and events.
 
-- [Getting Started]({{ site.baseurl }}/pages/getting_started/) 
-- [Learning MDAnalysis]({{ site.baseurl }}/pages/learning_MDAnalysis)
-- [Documentation]({{ site.baseurl }}/pages/documentation)
+## Availability ##
 
-## Community and collaboration
+MDAnalysis can be [**easily
+installed**]({{site.baseurl}}/pages/installation_quick_start/) with
+its dependencies using the ``pip`` or ``conda`` package managers;
+MDAnalysis is also available in some recent Linux distributions.
 
-MDAnalysis is driven by an active **community of users and contributors**. Check out the following resourses to stay up to date with our latest updates and events.
-
-- [Community]({{ site.baseurl }}/pages/community/) 
-- [Events]({{ site.baseurl }}/pages/events/)
-
-MDAnalysis is **open-source** and freely available under the [GNU General Public License, version 2](https://www.gnu.org/licenses/gpl-2.0.html). If you wish to contribute or participate  please check the [Contribute]({{ site.baseurl }}/pages/contribute/) page.
+All **source code** is available under the
+[GNU General Public License, version 2](https://www.gnu.org/licenses/gpl-2.0.html)
+(or any later version at your choice) from
+[github.com/MDAnalysis/mdanalysis](https://github.com/MDAnalysis/mdanalysis)
+and the Python Package index
+[pypi.org/project/MDAnalysis](https://pypi.org/project/MDAnalysis).
 
 ## Participating ##
 
@@ -63,6 +69,7 @@ site.mailinglists.developer.name }}
 forum]({{ site.mailinglists.developer.url }}).
 
 MDAnalysis regularly takes part in various **mentoring and outreach programs**, such as [Google Summer of Code](https://summerofcode.withgoogle.com/), [Google Season of Docs](https://developers.google.com/season-of-docs), [Outreachy](https://www.outreachy.org/), the [Station1 Frontiers Fellowship](https://www.station1.org/sff), and the [CompChemURG](https://www.bindingsites.co.uk/home) mentorship schemes. Many of the [current core developers](/about/#mdanalysis-core-developers/) joined the project through these mentoring schemes. The project also frequently offers **teaching workshops**, both online and in-person; recordings are often made available on the [MDAnalysis YouTube channel](https://www.youtube.com/@mdanalysis3040). Follow our [blog]({{ site.baseurl }}/blog), [LinkedIn](https://www.linkedin.com/company/mdanalysis/), [Twitter](https://twitter.com/mdanalysis), and [Bluesky](https://bsky.app/profile/mdanalysis.bsky.social) pages for updates on how to participate.
+
 
 ## Supporting ##
 
